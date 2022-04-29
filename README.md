@@ -11,8 +11,8 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - LinkedIn (https://www.linkedin.com/in/steven-cognac-24542658/)👨🏻‍💻
- - iNaturalist (https://www.inaturalist.org/people/stevenc_plantid)
+ - [LinkedIn](https://www.linkedin.com/in/steven-cognac-24542658/)👨🏻‍💻
+ - [iNaturalist](https://www.inaturalist.org/people/stevenc_plantid)
 
 <!--
 **cognack/cognack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
