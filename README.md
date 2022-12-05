@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 &nbsp; Biologist/Botanist with experience in California & Massachusetts.
-- 🎓 &nbsp; Studying Environmental Data Science at UCSB in the Bren School.
-- 📫 &nbsp; Currently Learning R, Python, SQL.
-- 💬 &nbsp; Open for project collaboration and internship opportunities. 
+- 🌱 &nbsp; Biologist/Project Manager with experience in California & Massachusetts.
+- 🎓 &nbsp; Bren School Master of Environmental Data Science Graduate at UCSB.
+- 📫 &nbsp; Proficient in R, Python, SQL.
+- 💬 &nbsp; Open for work and project collaboration. 
 
 
 ### 📫🤝🏻 Connect with Me
