@@ -3,10 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 &nbsp; Biologist/Project Manager with experience in California & Massachusetts.
-- 🎓 &nbsp; Bren School Master of Environmental Data Science Graduate at UCSB.
+- 🌱 &nbsp; Water Conservation Specialist/Data Analyst @[MontecitoWater](https://montecitowater.com/about-the-district/staff-and-operations/).
+- 🎓 &nbsp; UCSB Masters of Environmental Data Science (MEDS) 2022 graduate.
 - 📫 &nbsp; Proficient in R, Python, SQL.
-- 💬 &nbsp; Open for work and project collaboration. 
 
 
 ### 📫🤝🏻 Connect with Me
